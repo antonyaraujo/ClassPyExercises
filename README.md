@@ -12,9 +12,11 @@
 
 <h3> Aula 03 </h3>
 
-- [ ] Questão 1
-- [ ] Questão 2
-- [ ] Questão 3
+- [X] Questão 1
+- [X] Questão 2
+- [X] Questão 3
+- [X] Questão 4
+- [X] Questão 5
 
 <h3> Aula 04 </h3>
 
