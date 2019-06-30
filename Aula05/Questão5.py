@@ -16,6 +16,7 @@ imprima uma mensagem adequada informando qual o dia da semana em
 que o veículo não pode circular.'''
 
 placa = int(input("Informe a parte numérica da placa do carro: ")[3])
+# outra solução: placa =  placa / 1 % 10
 print("último dígito da placa é: %i" %placa)
 if (0 < placa < 3):
     print("Não podem trafegar na segunda-feira")
