@@ -6,4 +6,4 @@ massa corpórea (IMC) dessa pessoa. Dado:
 
 peso = float(input("Informe o seu peso: "))
 altura = float(input("Informe sua altura: "))
-print ("Seu IMC é: ", (peso/(altura*altura)))
+print ("Seu IMC é: ", (peso/(altura ** 2)))
