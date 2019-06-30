@@ -29,3 +29,10 @@
 - [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o3.py">Questão 3</a>
 - [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o4.py">Questão 4</a>
 - [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o5.py">Questão 5</a>
+
+
+<h3> Aula 06 </h3>
+
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula06/Quest%C3%A3o1.py">Questão 1</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula06/Quest%C3%A3o2.py">Questão 2</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula06/Quest%C3%A3o3.py">Questão 3</a>
