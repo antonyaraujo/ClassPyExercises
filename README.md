@@ -6,20 +6,26 @@
 
 <h3> Aula 02 </h3>
 
-- [X] Questão 1
-- [X] Questão 2
-- [X] Questão 3
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula02/Quest%C3%A3o1.py">Questão 1</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula02/Quest%C3%A3o2.py">Questão 2</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula02/Quest%C3%A3o3.py">Questão 3</a>
 
 <h3> Aula 03 </h3>
 
-- [X] Questão 1
-- [X] Questão 2
-- [X] Questão 3
-- [X] Questão 4
-- [X] Questão 5
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o1.py">Questão 1</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o2.py">Questão 2</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o3.py">Questão 3</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o4.py">Questão 4</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o5.py">Questão 5</a>
 
 <h3> Aula 04 </h3>
 
-- [ ] Questão 1
-- [ ] Questão 2
-- [ ] Questão 3
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula04/Quest%C3%A3o1.py">Questão 1</a>
+
+<h3> Aula 05 </h3>
+
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o1.py">Questão 1</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o2.py">Questão 2</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o3.py">Questão 3</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula05/Quest%C3%A3o4.py">Questão 4</a>
+- [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula03/Quest%C3%A3o5.py">Questão 5</a>
