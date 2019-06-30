@@ -2,6 +2,7 @@
 
 <p>Repositório criado para armazenar as questões de <font color="0000FF">Python</font> resolvidas da aula de <b>Algoritmos e Programação</b> - Curso de Engenharia de Computação. </p>
 <br />
+As questões originais estão disponíveis em: https://sites.google.com/site/ap1uefs20191/aulas
 <i> Questões resolvidas por: Antony Araújo </i>
 
 <h3> Aula 02 </h3>
