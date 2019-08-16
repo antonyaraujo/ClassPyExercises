@@ -6,7 +6,7 @@ Os enunciados foram extraídos de: https://sites.google.com/site/ap1uefs20191/au
 <br />
 <i> Questões resolvidas por: Antony Araújo </i>
 
-<h5> Exercícios Unidade I </h5>
+<h2> Exercícios Unidade I </h2>
 <h3> Aula 02 </h3>
 
 - [X] <a href="https://github.com/antonyaraujo/ClassPyExercises/blob/master/Aula02/Quest%C3%A3o1.py">Questão 1</a>
